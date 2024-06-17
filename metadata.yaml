@@ -1,5 +1,8 @@
 _repo: Dave-Fearless-after-a-sunken-treasure-b-or-The-rival-ocean-divers_73763
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73763-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Rockwood, Roy
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: https://en.wikipedia.org/wiki/Roy_Rockwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73763#Dave-Fearless-after-a-sunken-treasure-b-or-The-rival-ocean-divers
 gutenberg_issued: '2024-06-03'
 gutenberg_type: Text
 identifiers:
